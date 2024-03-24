@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-""" module doc """
 from flask import Flask
 
 app = Flask(__name__)
